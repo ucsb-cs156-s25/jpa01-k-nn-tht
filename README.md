@@ -1,6 +1,6 @@
 # jpa01-k-nn-tht
 
-Deployed at: [https://jpa01-replace-me.dokku-xx.cs.ucsb.edu](https://jpa01-k-nn-tht.dokku-13.cs.ucsb.edu/)
+Deployed at: [https://jpa01-k-nn-tht.dokku-13.cs.ucsb.edu](https://jpa01-k-nn-tht.dokku-13.cs.ucsb.edu/)
 
 
 # About this repo
